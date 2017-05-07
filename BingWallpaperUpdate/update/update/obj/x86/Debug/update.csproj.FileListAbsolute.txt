@@ -1,0 +1,8 @@
+E:\我的程序\BingWallpaperUpdate\update\update\bin\Debug\update.exe
+E:\我的程序\BingWallpaperUpdate\update\update\bin\Debug\update.pdb
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Debug\update.Form1.resources
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Debug\update.Properties.Resources.resources
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Debug\update.csproj.GenerateResource.Cache
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Debug\update.exe
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Debug\update.pdb
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Debug\update.csprojResolveAssemblyReference.cache

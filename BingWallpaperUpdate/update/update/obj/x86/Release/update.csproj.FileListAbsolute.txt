@@ -1,0 +1,7 @@
+E:\我的程序\BingWallpaperUpdate\update\update\bin\Release\update.exe
+E:\我的程序\BingWallpaperUpdate\update\update\bin\Release\update.pdb
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Release\update.Form1.resources
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Release\update.Properties.Resources.resources
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Release\update.csproj.GenerateResource.Cache
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Release\update.exe
+E:\我的程序\BingWallpaperUpdate\update\update\obj\x86\Release\update.pdb

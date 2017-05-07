@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+  <general>
+    <AppVersion>1.0.0.20170423</AppVersion>
+    <delayMinute>30</delayMinute>
+  </general>
+  <version>
+    <BingWallpaper.exe>1.0.0.20170422</BingWallpaper.exe>
+    <Http.dll>1.0.0.20170422</Http.dll>
+    <Newtonsoft.Json.dll>1.0.0.20170422</Newtonsoft.Json.dll>
+    <image>1.0.0.20170422</image>
+  </version>
+</config>

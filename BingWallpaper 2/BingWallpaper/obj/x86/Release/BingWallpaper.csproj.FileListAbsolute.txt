@@ -1,0 +1,12 @@
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.csproj.ResolveComReference.cache
+E:\我的程序\BingWallpaper\BingWallpaper\bin\Release\BingWallpaper.exe
+E:\我的程序\BingWallpaper\BingWallpaper\bin\Release\BingWallpaper.pdb
+E:\我的程序\BingWallpaper\BingWallpaper\bin\Release\Http.dll
+E:\我的程序\BingWallpaper\BingWallpaper\bin\Release\Newtonsoft.Json.dll
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.csprojResolveAssemblyReference.cache
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.Form1.resources
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.Properties.Resources.resources
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.csproj.GenerateResource.Cache
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.exe
+E:\我的程序\BingWallpaper\BingWallpaper\obj\x86\Release\BingWallpaper.pdb

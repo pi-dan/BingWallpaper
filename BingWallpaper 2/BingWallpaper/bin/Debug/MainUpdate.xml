@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<update>
+
+  <AppVersion>
+    <version>1.0.0.20170429</version>
+    
+<download> </download>
+  </AppVersion>
+
+  <BingWallpaper.exe>
+    <version>1.0.0.20170429</version>
+    
+<download>http://www.lovecatcat.com/BingWallpaper/update/BingWallpaper.exe</download>
+  </BingWallpaper.exe>
+
+  <update.exe>
+    <version>1.0.0.20170429</version>
+    
+<download>http://www.lovecatcat.com/BingWallpaper/update/update.exe</download>
+  </update.exe>
+
+  <Http.dll>
+    <version>1.0.0.20170423</version>
+    
+<download>http://www.lovecatcat.com/BingWallpaper/update/Http.dll</download>
+  </Http.dll>
+
+  <Newtonsoft.Json.dll>
+    <version>1.0.0.20170423</version>
+    
+<download>http://www.lovecatcat.com/BingWallpaper/update/Newtonsoft.Json.dll</download>
+  </Newtonsoft.Json.dll>
+
+  <image>
+    <version>1.0.0.20170423</version>
+    
+<download1>http://www.lovecatcat.com/BingWallpaper/update/ico/ico16X16.ico</download1>
+    
+<download2>http://www.lovecatcat.com/BingWallpaper/update/ico/ico48X48.ico</download2>
+    
+<download3>http://www.lovecatcat.com/BingWallpaper/update/ico/ico64X64.ico</download3>
+    
+<download5>http://www.lovecatcat.com/BingWallpaper/update/ico/background.bmp</download5>
+  </image>
+
+</update>
