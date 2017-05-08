@@ -9,13 +9,11 @@
 
 ***
 语言：C#
-
 编写平台：Visual Studio 2010
 ***
 
 
 ***
 2017-05-08
-
 上传到github及添加READNE
 ***
