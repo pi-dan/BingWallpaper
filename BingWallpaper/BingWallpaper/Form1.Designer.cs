@@ -49,9 +49,9 @@
             // 
             // pictureBox
             // 
-            this.pictureBox.Location = new System.Drawing.Point(-7, -25);
+            this.pictureBox.Location = new System.Drawing.Point(-3, -1);
             this.pictureBox.Name = "pictureBox";
-            this.pictureBox.Size = new System.Drawing.Size(469, 325);
+            this.pictureBox.Size = new System.Drawing.Size(459, 293);
             this.pictureBox.TabIndex = 1;
             this.pictureBox.TabStop = false;
             // 
@@ -127,7 +127,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(163, 55);
+            this.textBox1.Location = new System.Drawing.Point(165, 81);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(49, 21);
             this.textBox1.TabIndex = 5;
