@@ -18,3 +18,13 @@ E:\我的程序\BingWallpaper 2\BingWallpaper\obj\x86\Debug\BingWallpaper.csproj
 E:\我的程序\BingWallpaper 2\BingWallpaper\obj\x86\Debug\BingWallpaper.Form1.resources
 E:\我的程序\BingWallpaper 2\BingWallpaper\obj\x86\Debug\BingWallpaper.Properties.Resources.resources
 E:\我的程序\BingWallpaper 2\BingWallpaper\obj\x86\Debug\BingWallpaper.csproj.GenerateResource.Cache
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.csproj.ResolveComReference.cache
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.exe
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.pdb
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\bin\Debug\BingWallpaper.exe
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\bin\Debug\BingWallpaper.pdb
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.csprojResolveAssemblyReference.cache
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.Form1.resources
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.Properties.Resources.resources
+E:\我的程序\BingWallpaperGithub\BingWallpaper\BingWallpaper\BingWallpaper\obj\x86\Debug\BingWallpaper.csproj.GenerateResource.Cache
