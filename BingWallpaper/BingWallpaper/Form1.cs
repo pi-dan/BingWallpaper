@@ -95,8 +95,36 @@ namespace BingWallpaper
             }
         }
 
+
+        public class FIleLastTimeComparer : IComparer<FileInfo>
+        {
+            public int Compare(FileInfo x, FileInfo y)
+            {
+                return y.LastWriteTime.CompareTo(x.LastWriteTime);//递减
+                //return x.LastWriteTime.CompareTo(y.LastWriteTime);//递增
+            }
+        }
         public  void appExit()   //退出程序
         {
+
+            //删除多余的图片文件
+            DirectoryInfo theFolder = new DirectoryInfo(imageInfo.imageSaveDirectory);
+            FileInfo[] fileInfo = theFolder.GetFiles();//目录中文件信息
+            if (fileInfo.Length >= 30)   //图片文件个数大于三十
+            {
+                Array.Sort(fileInfo, new FIleLastTimeComparer());//按文件时间修改顺序排序
+                string[] fileNames = new string[fileInfo.Length];
+                for (int i = 0; i < fileInfo.Length; i++)
+                {
+                    fileNames[i] = fileInfo[i].Name;
+                }
+                for (int i = 30; i < fileNames.Length; i++)
+                {
+                    File.Delete(imageInfo.imageSaveDirectory + "\\" + fileNames[i]);
+                }
+            }
+
+
             if(!CheckServeStatus())   //网络未连接
                 Application.Exit();
             
